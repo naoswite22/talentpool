@@ -1,4 +1,4 @@
-*Talent Pool" - a production-ready, error-free Clarity smart contract for decentralized hiring and recruitment!
+*Talent Pool* - a production-ready, error-free Clarity smart contract for decentralized hiring and recruitment!
 
 ## ✅ **Zero Errors - Production Ready**
 - Passes `clarinet check` without any errors
